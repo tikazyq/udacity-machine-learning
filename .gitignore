@@ -1,0 +1,7 @@
+__MACOSX/
+__pycache__/
+*.pyc
+*.zip
+*.csv
+*.txt
+*.bak
